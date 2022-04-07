@@ -1,5 +1,7 @@
 # Calculadora IMC
 
-Projeto feito no curso de React Js da B7Web.
+Projeto feito durante o curso de React.JS da B7Web.
+
+Neste projeto foi utilizado React.JS e Styled Components.
 
 Link: <a href="https://calculadora-imc-sand.vercel.app/">Calculadora IMC</a>
